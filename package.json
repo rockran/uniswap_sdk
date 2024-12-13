@@ -1,5 +1,5 @@
 {
-  "name": "@rc/rc_sdk",
+  "name": "rc_uniswap_sdk",
   "license": "MIT",
   "version": "0.0.1",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
@@ -8,6 +8,7 @@
   "files": [
     "dist"
   ],
+  "repository": "https://github.com/rockran/uniswap_sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
